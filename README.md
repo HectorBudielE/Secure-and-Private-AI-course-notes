@@ -7,11 +7,13 @@ Day 1: #60daysofudacity
 1. Worked on Lesson 2 and started organizing the code in a github repo.
 2. I want to encourage @Rajdeep Saha, @Alejandra Campo Archbold, @Miguel Tasende, @Dilver Huertas Guerrero, @Jonathan Edwin, @David Popoola, @Alejandra Campo Archbold, @Molokwu Reginald Chukwuka, @Shivam Kushwaha, @Stefan Blos and @David Popoola to start the challenge and post today!
 
+
 1/7/19
 Day 2: #60daysofudacity
 1. Finished Lesson 1 and 2.
 2. Finally created a github repo and uploaded the material I worked on in Lesson 2: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes
 3. I want to encourage @David Popoola, @Roumaissaa and @Claudio Vega Lagos to post today!
+
 
 2/7/19
 Day 3: #60daysofudacity
@@ -19,38 +21,45 @@ Day 3: #60daysofudacity
 2. Updated all the material for Lesson 2: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes
 3. I want to encourage again @David Popoola, @Roumaissaa and @Claudio Vega Lagos to post today!
 
+
 3/7/19
 Day 4: #60daysofudacity
 1. Continued with Lesson 3, and started with Lesson 4.
 2. I want to encourage @Rajdeep Saha, @Alejandra Campo Archbold, @Miguel Tasende, @Dilver Huertas Guerrero, @Jonathan Edwin, @Molokwu Reginald Chukwuka, @Shivam Kushwaha, @Stefan Blos and @David Popoola to post today!
 
+
 4/7/19
 Day 5: #60daysofudacity
 1. Finished with Lesson 3 lectures, and the working on the setting up of pysyft in Google Colab.
 
+
 5/7/19
 Day 6: #60daysofudacity
-
 1. Finished with Lesson 3 Project and uploaded to my course github repository: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes.
 2. Started with Lesson 4 Projects.
+
 
 6/7/19
 Day 7: #60daysofudacity
 1. Continued with the Lesson 4 Projects.
 2. Started reading the first chapter of the book The Algorithmic Foundations of Differential Privacy by Cynthia Dwork et al.
 
+
 7/7/19
 Day 8: #60daysofudacity
 1. Continued with the Lesson 4 Projects, and started with Lesson 5 Projects.
 2. Continued with the second chapter of the book The Algorithmic Foundations of Differential Privacy by Cynthia Dwork et al.
 
+
 8/7/19
 Day 9: #60daysofudacity
 1. Finished class 4.4 and first Project of Lesson 4, and uploaded it to my course github repository: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes.
 
+
 10/7/19
 Day 10: #60daysofudacity
 1. Finished class 4.5 and second Project of Lesson 4, and uploaded it to my course github repository: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes.
+
 
 11/7/19
 Day 11: #60daysofudacity
