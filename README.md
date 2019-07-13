@@ -64,3 +64,9 @@ Day 10: #60daysofudacity
 11/7/19
 Day 11: #60daysofudacity
 1. Finished Lesson 4, and uploaded the last Project for this lesson to my course github repository: https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes.
+
+12/7/19
+Day 12: #60daysofudacity
+1. Continued with Lesson 5 Projects.
+2. Updated the Readme file of my course github repository (https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes) to contain the log of all days of the 60 days of Udacity challenge.
+3. Read the article: Private AI — Federated Learning with PySyft and PyTorch (https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
