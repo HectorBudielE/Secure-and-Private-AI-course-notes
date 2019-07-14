@@ -76,3 +76,8 @@ Day 13: #60daysofudacity
 1. Started with the first Lesson 5 Project.
 2. From now on all the day logs will be updated in my course github repository (https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes).
 3. Read the article: Understanding Differential Privacy (https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a)
+
+14/7/19
+Day 14: #60daysofudacity
+1. Finished with the first lesson 5 Project.
+2. Finished with  the lessons 5.1 through 5.5.
