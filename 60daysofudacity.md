@@ -1,4 +1,4 @@
-##60 Days of Udacity Challenge
+#60 Days of Udacity Challenge
 This is the daily logs for the 60 Days of Udacity Challenge:
 
 30/6/19
