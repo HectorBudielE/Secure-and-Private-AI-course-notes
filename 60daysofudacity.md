@@ -5,6 +5,7 @@ This is the daily logs for the 60 Days of Udacity Challenge:
 Day 1: #60daysofudacity
 1. Worked on Lesson 2 and started organizing the code in a github repo.
 2. I want to encourage @Rajdeep Saha, @Alejandra Campo Archbold, @Miguel Tasende, @Dilver Huertas Guerrero, @Jonathan Edwin, @David Popoola, @Alejandra Campo Archbold, @Molokwu Reginald Chukwuka, @Shivam Kushwaha, @Stefan Blos and @David Popoola to start the challenge and post today!
+---
 
 1/7/19
 Day 2: #60daysofudacity
