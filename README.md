@@ -81,3 +81,9 @@ Day 13: #60daysofudacity
 Day 14: #60daysofudacity
 1. Finished with the first lesson 5 Project.
 2. Finished with  the lessons 5.1 through 5.5.
+
+15/7/19
+Day 15: #60daysofudacity
+1. Started with the second lesson 5 Proyect.
+2. Started reviewing some possible projects for the end of the course.
+3. Read the article: Rethinking Data Privacy: The Impact of Machine Learning(https://medium.com/luminovo/data-privacy-in-machine-learning-a-technical-deep-dive-f7f0365b1d60)
