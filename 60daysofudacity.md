@@ -1,5 +1,7 @@
 # 60 Days of Udacity Challenge
 This is the daily logs for the 60 Days of Udacity Challenge:
+
+
 ---
 30/6/19
 Day 1: #60daysofudacity
@@ -48,6 +50,7 @@ Day 9: #60daysofudacity
 ---
 9/7/19
 Free day
+
 ---
 10/7/19
 Day 10: #60daysofudacity
