@@ -87,3 +87,8 @@ Day 15: #60daysofudacity
 Day 16: #60daysofudacity
 1. Finished with the second lesson 5 Proyect, and uploaded it to my course github repository (https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes).
 ---
+17/7/19
+Day 17: #60daysofudacity
+1. Finished with lesson 5.6 and 5.7.
+2. Started reading the paper Differential privacy and Machine Learning:a Survey and Review (https://arxiv.org/pdf/1412.7584.pdf).
+---
