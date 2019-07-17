@@ -83,3 +83,7 @@ Day 15: #60daysofudacity
 2. Started reviewing some possible projects for the end of the course.
 3. Read the article: Rethinking Data Privacy: The Impact of Machine Learning(https://medium.com/luminovo/data-privacy-in-machine-learning-a-technical-deep-dive-f7f0365b1d60)
 ---
+16/7/19
+Day 16: #60daysofudacity
+1. Finished with the second lesson 5 Proyect, and uploaded it to my course github repository (https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes).
+---
