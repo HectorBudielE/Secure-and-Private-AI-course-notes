@@ -92,3 +92,8 @@ Day 17: #60daysofudacity
 1. Finished with lesson 5.6 and 5.7.
 2. Started reading the paper Differential privacy and Machine Learning:a Survey and Review (https://arxiv.org/pdf/1412.7584.pdf).
 ---
+18/7/19
+Day 18: #60daysofudacity
+1. Finished with lesson 5.8, and started with Lesson 5.9, the last Project for Lesson 5.
+2. Started evaluating a project using federated learning of a recurrent neural network on Raspberry Pis, based on this blog post by OpenMined: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/?fbclid=IwAR1v4IOQciD8XjCaskX4Td_mmzP-FzLnNJg74kiFIiVQQz2FjlzSEKHX-Ts.
+---
