@@ -97,3 +97,9 @@ Day 18: #60daysofudacity
 1. Finished with lesson 5.8, and started with Lesson 5.9, the last Project for Lesson 5.
 2. Started evaluating a project using federated learning of a recurrent neural network on Raspberry Pis, based on this blog post by OpenMined: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/?fbclid=IwAR1v4IOQciD8XjCaskX4Td_mmzP-FzLnNJg74kiFIiVQQz2FjlzSEKHX-Ts.
 ---
+19/7/19
+Day 19: #60daysofudacity
+1. Finished with Lesson 5, and finished the last project of this Lesson.
+2. Started with Lesson 6.
+3. Started reading the paper Federated Machine Learning: Concept and Applications (https://arxiv.org/pdf/1902.04885.pdf).
+---
