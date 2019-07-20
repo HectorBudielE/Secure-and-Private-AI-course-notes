@@ -103,3 +103,8 @@ Day 19: #60daysofudacity
 2. Started with Lesson 6.
 3. Started reading the paper Federated Machine Learning: Concept and Applications (https://arxiv.org/pdf/1902.04885.pdf).
 ---
+20/7/19
+Day 20: #60daysofudacity
+1. Finished with Lesson 6.7, 6.8, and 6.9.
+2. Continued reading the paper Federated Machine Learning: Concept and Applications (https://arxiv.org/pdf/1902.04885.pdf).
+---
