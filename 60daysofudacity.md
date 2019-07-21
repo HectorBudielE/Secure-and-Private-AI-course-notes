@@ -108,3 +108,9 @@ Day 20: #60daysofudacity
 1. Finished with Lesson 6.7, 6.8, and 6.9.
 2. Continued reading the paper Federated Machine Learning: Concept and Applications (https://arxiv.org/pdf/1902.04885.pdf).
 ---
+21/7/19
+Day 21: #60daysofudacity
+1. Participated in a virtual meeting from #sg_latin, with fellow members @susyjam, @Ricardo Pretelt, @Antonio and @Casimiro.Rocha.
+2. Read the article Technology Fridays: OpenMined Powers Federated AI Using the Blockchain(https://towardsdatascience.com/technology-fridays-openmined-powers-federated-ai-using-the-blockchain-d124e6560dd)
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Antonio and @Casimiro.Rocha to post today!
+---
