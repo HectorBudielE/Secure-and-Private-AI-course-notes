@@ -114,7 +114,7 @@ Day 21: #60daysofudacity
 2. Read the article Technology Fridays: OpenMined Powers Federated AI Using the Blockchain(https://towardsdatascience.com/technology-fridays-openmined-powers-federated-ai-using-the-blockchain-d124e6560dd)
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Antonio and @Casimiro.Rocha to post today!
 ---
-2/7/19
+22/7/19
 Day 22: #60daysofudacity
 1. Started Lessons 6.3 and 6.4.
 2. Started reading the paper Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf) for Lesson 6.5.
