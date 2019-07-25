@@ -125,3 +125,9 @@ Day 23: #60daysofudacity
 1. Finished Lesson 6.3 and continued Lesson 6.4.
 2. Continued reading the paper Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf) for Lesson 6.5.
 ---
+24/7/19
+Day 24: #60daysofudacity
+1. Finished Lesson 6.4 and started Lesson 6.5.
+2. Continued reading the paper Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf) for Lesson 6.5.
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
