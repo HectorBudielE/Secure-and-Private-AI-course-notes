@@ -137,3 +137,9 @@ Day 25: #60daysofudacity
 2. Continued reading the paper Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf) for Lesson 6.5.
 3. Restarted reading the first chapter of the book The Algorithmic Foundations of Differential Privacy by Cynthia Dwork et al.
 ---
+26/7/19
+Day 26: #60daysofudacity
+1. Started with Lesson 7.
+2. Found an interesting article concerning a Convolutional Network that works with few samples: "A ConvNet that works on like, 20 samples: Scatter Wavelets" (https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385).
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
