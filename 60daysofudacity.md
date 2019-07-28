@@ -143,3 +143,7 @@ Day 26: #60daysofudacity
 2. Found an interesting article concerning a Convolutional Network that works with few samples: "A ConvNet that works on like, 20 samples: Scatter Wavelets" (https://towardsdatascience.com/a-convnet-that-works-on-like-20-samples-scatter-wavelets-b2e858f8a385).
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+27/7/19
+Day 27: #60daysofudacity
+1. Completed with Lessons 7.1, 7.2, and 7.3.
+2. Found an interesting article concerning the different versions of the ReLu activation function: "Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6" (https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310).
