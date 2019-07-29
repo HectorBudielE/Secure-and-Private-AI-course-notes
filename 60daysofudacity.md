@@ -147,3 +147,10 @@ Day 26: #60daysofudacity
 Day 27: #60daysofudacity
 1. Completed with Lessons 7.1, 7.2, and 7.3.
 2. Found an interesting article concerning the different versions of the ReLu activation function: "Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6" (https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310).
+---
+28/7/19
+Day 28: #60daysofudacity
+1. Completed Lessons 7.4 and 7.5.
+2. Found an interesting toolkit for developing and comparing reinforcement learning algorithms (including Deep Reinforcement Learning), Gym : https://gym.openai.com/. I'm thinking of using it to start a project on Deep Reinforcement Learning.
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
