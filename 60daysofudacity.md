@@ -154,3 +154,8 @@ Day 28: #60daysofudacity
 2. Found an interesting toolkit for developing and comparing reinforcement learning algorithms (including Deep Reinforcement Learning), Gym : https://gym.openai.com/. I'm thinking of using it to start a project on Deep Reinforcement Learning.
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+29/7/19
+Day 29: #60daysofudacity
+1. Completed Lessons 7.6 and 7.7.
+2. Found a survey on Deep Learning based Recommender System: "Deep Learning based Recommender System: A Survey and New Perspectives" (https://arxiv.org/pdf/1707.07435.pdf)
+---
