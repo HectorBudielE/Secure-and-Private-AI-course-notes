@@ -159,3 +159,9 @@ Day 29: #60daysofudacity
 1. Completed Lessons 7.6 and 7.7.
 2. Found a survey on Deep Learning based Recommender System: "Deep Learning based Recommender System: A Survey and New Perspectives" (https://arxiv.org/pdf/1707.07435.pdf)
 ---
+30/7/19
+Day 30: #60daysofudacity
+1. Completed Lessons 7.8 and 7.9.
+2. Started reading about Deep Reinforcement Learning, finding a very interesting article to start using the toolkit Gym: "Introduction: Reinforcement Learning with OpenAI Gym" (https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2)
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Andy, @Rosa Paccotacya, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
