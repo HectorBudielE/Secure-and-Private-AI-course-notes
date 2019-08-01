@@ -165,3 +165,9 @@ Day 30: #60daysofudacity
 2. Started reading about Deep Reinforcement Learning, finding a very interesting article to start using the toolkit Gym: "Introduction: Reinforcement Learning with OpenAI Gym" (https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2)
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Andy, @Rosa Paccotacya, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+31/7/19
+Day 31: #60daysofudacity
+1. Completed Lessons 7.10, 7.11, 7.12 and 7.13.
+2. Found an interesting article about the NVIDIA open-source Python RAPIDS libraries and their use in Datanalytics and Machine Learning: "GPU Accelerated Data Analytics & Machine Learning" (https://towardsdatascience.com/gpu-accelerated-data-analytics-machine-learning-963aebe956ce)
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Rosa Paccotacya, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
