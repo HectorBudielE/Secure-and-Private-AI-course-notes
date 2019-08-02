@@ -171,3 +171,10 @@ Day 31: #60daysofudacity
 2. Found an interesting article about the NVIDIA open-source Python RAPIDS libraries and their use in Datanalytics and Machine Learning: "GPU Accelerated Data Analytics & Machine Learning" (https://towardsdatascience.com/gpu-accelerated-data-analytics-machine-learning-963aebe956ce)
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Rosa Paccotacya, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+1/8/19
+Day 32: #60daysofudacity
+1. Completed Lesson 8.1.
+2. Managed to render the OpenAi Gym environment in Google Colab
+3. Found an interesting article about the reward functions in Deep Reinforcement Learning models: "Deep Reinforcement Learning Models: Tips & Tricks for Writing Reward Functions" (https://medium.com/@BonsaiAI/deep-reinforcement-learning-models-tips-tricks-for-writing-reward-functions-a84fe525e8e0) 
+4. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
