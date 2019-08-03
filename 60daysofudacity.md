@@ -178,3 +178,10 @@ Day 32: #60daysofudacity
 3. Found an interesting article about the reward functions in Deep Reinforcement Learning models: "Deep Reinforcement Learning Models: Tips & Tricks for Writing Reward Functions" (https://medium.com/@BonsaiAI/deep-reinforcement-learning-models-tips-tricks-for-writing-reward-functions-a84fe525e8e0) 
 4. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+2/8/19
+Day 33: #60daysofudacity
+1. Completed Lesson 8.2.
+2. Joined the AWS DeepRacer Challenge.
+3. Managed to render the OpenAi Gym toolbox for Reinforcement Lerning in Google Colaboratory, with the help of this article by StarAi Applied Research: "Rendering OpenAi Gym in Google Colaboratory" (https://star-ai.github.io/Rendering-OpenAi-Gym-in-Colaboratory/) 
+4. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
