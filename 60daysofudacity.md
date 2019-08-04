@@ -185,3 +185,9 @@ Day 33: #60daysofudacity
 3. Managed to render the OpenAi Gym toolbox for Reinforcement Lerning in Google Colaboratory, with the help of this article by StarAi Applied Research: "Rendering OpenAi Gym in Google Colaboratory" (https://star-ai.github.io/Rendering-OpenAi-Gym-in-Colaboratory/) 
 4. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+3/8/19
+Day 34: #60daysofudacity
+1. Completed Lesson 1 and started Lesson 2.1 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
+2. I found a great introduction to Reinforcement Learning using the OpenAi Gynm in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288). I'm planning to use this article as a base for a Reinforcement Learning project using gym. 
+3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
+---
