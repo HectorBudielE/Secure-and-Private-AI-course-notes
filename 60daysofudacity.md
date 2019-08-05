@@ -191,3 +191,9 @@ Day 34: #60daysofudacity
 2. I found a great introduction to Reinforcement Learning using the OpenAi Gynm in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288). I'm planning to use this article as a base for a Reinforcement Learning project using gym. 
 3. I want to encourage fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge!
 ---
+4/8/19
+Day 35: #60daysofudacity
+1. Worked on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
+2. I read a great article on Medium regarding Decision Intelligence: "Introduction to Decision Intelligence" (https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767).
+3. I want keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
