@@ -202,3 +202,8 @@ Day 36: #60daysofudacity
 1. Started watching the presentation of Differential Privacy for Growing Databases by Dr. Rachel Cummings: https://www.youtube.com/watch?v=Rj8FkJZgFtk.
 2. Continued with the work on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
 ---
+6/8/19
+Day 37: #60daysofudacity1. Finished watching the presentation of Differential Privacy for Growing Databases by Dr. Rachel Cummings: https://www.youtube.com/watch?v=Rj8FkJZgFtk.
+2. Continued with the work on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
+3. I want keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
