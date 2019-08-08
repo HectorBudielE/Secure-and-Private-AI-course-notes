@@ -208,3 +208,8 @@ Day 37: #60daysofudacity
 2. Continued with the work on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
 3. I want keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
 ---
+7/8/19
+Day 38: #60daysofudacity
+1. Started following a course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/).
+2. Continued with the work on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
+---
