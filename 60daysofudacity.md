@@ -213,3 +213,8 @@ Day 38: #60daysofudacity
 1. Started following a course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/).
 2. Continued with the work on understanding and reproducing the code presented in the article "Cartpole - Introduction to Reinforcement Learning (DQN - Deep Q-Learning)" (https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288).
 ---
+8/8/19
+Day 39: #60daysofudacity
+1. Completed Lesson 2.1, 2.2 and 2.3 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
+2. Continued with the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). Instead of using TensorFlow, I'll adapt it to Pytorch.
+---
