@@ -218,3 +218,8 @@ Day 39: #60daysofudacity
 1. Completed Lesson 2.1, 2.2 and 2.3 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
 2. Continued with the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). Instead of using TensorFlow, I'll adapt it to Pytorch.
 ---
+9/8/19
+Day 40: #60daysofudacity
+1. Completed Lesson 2.4, 2.5 and 2.6 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
+2. Started with Step 2 in the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
+---
