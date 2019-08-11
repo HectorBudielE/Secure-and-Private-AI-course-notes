@@ -223,3 +223,8 @@ Day 40: #60daysofudacity
 1. Completed Lesson 2.4, 2.5 and 2.6 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
 2. Started with Step 2 in the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
 ---
+10/8/19
+Day 41: #60daysofudacity
+1. Completed Lesson 2.7, 2.8 and 2.9 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
+2. Started with Q Learning with FrozenLake 4x4 in the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
+---
