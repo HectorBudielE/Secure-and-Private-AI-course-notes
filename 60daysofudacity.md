@@ -228,3 +228,9 @@ Day 41: #60daysofudacity
 1. Completed Lesson 2.7, 2.8 and 2.9 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
 2. Started with Q Learning with FrozenLake 4x4 in the course on Deep Reinforcement Learning by Thomas Simonini: "A Free course in Deep Reinforcement Learning from beginner to expert." (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
 ---
+11/8/19
+Day 42: #60daysofudacity
+1. Completed Lesson 3.1 and 3.2 of the AWS DeepRacer course (part of the AWS DeepRacer Challenge).
+2. Implemented Q Learning with the gym toolbox based on the Free course in Deep Reinforcement Learning from beginner to expert by Thomas Simonini (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). This implementation was done on Google Colab (https://colab.research.google.com/drive/1yOhAYFFun4NvTPkj6q4282PVWVk8mbMC).
+3. I want keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
