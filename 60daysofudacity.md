@@ -234,3 +234,9 @@ Day 42: #60daysofudacity
 2. Implemented Q Learning with the gym toolbox based on the Free course in Deep Reinforcement Learning from beginner to expert by Thomas Simonini (https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). This implementation was done on Google Colab (https://colab.research.google.com/drive/1yOhAYFFun4NvTPkj6q4282PVWVk8mbMC).
 3. I want keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
 ---
+12/8/19
+Day 43: #60daysofudacity
+1. Completed Lesson 8.3.
+2. Read Part 1 and Part 2 of "Machine Learning is Fun!", a Machine Learning article series by Adam Geitgey (Part 1: https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) (Part 2: https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+3. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
