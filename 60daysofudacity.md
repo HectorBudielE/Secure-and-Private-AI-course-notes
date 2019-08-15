@@ -245,3 +245,9 @@ Day 44: #60daysofudacity
 1. Completed Lesson 8.4.
 2. Read Part 3, Part 4 and Part 5 of "Machine Learning is Fun!", a Machine Learning article series by Adam Geitgey (Part 3: https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721) (Part 4: https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) (Part 5: https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
 ---
+14/8/19
+Day 45: #60daysofudacity
+1. Completed Lesson 8.5.
+2. Read Part 6, Part 7 and Part 8 of "Machine Learning is Fun!", a Machine Learning article series by Adam Geitgey (Part 6: https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a) (Part 7: https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7) (Part 8: https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+3. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
