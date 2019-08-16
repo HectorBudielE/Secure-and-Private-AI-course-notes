@@ -251,3 +251,8 @@ Day 45: #60daysofudacity
 2. Read Part 6, Part 7 and Part 8 of "Machine Learning is Fun!", a Machine Learning article series by Adam Geitgey (Part 6: https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a) (Part 7: https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7) (Part 8: https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 3. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
 ---
+15/8/19
+Day 46: #60daysofudacity
+1. Completed Lesson 8.6.
+2. Read an Tutorial on Graph Neural Networks for Computer Vision, all explained using Pytorch: "Tutorial on Graph Neural Networks for Computer Vision and Beyond (Part 1)" (https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d).
+---
