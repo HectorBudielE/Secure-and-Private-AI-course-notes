@@ -256,3 +256,9 @@ Day 46: #60daysofudacity
 1. Completed Lesson 8.6.
 2. Read an Tutorial on Graph Neural Networks for Computer Vision, all explained using Pytorch: "Tutorial on Graph Neural Networks for Computer Vision and Beyond (Part 1)" (https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d).
 ---
+16/8/19
+Day 47: #60daysofudacity
+1. Completed Lesson 8.7.
+2. Continued reading a Tutorial on Graph Neural Networks for Computer Vision, all explained using Pytorch: "Tutorial on Graph Neural Networks for Computer Vision and Beyond (Part 1)" (https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d). 
+It was interesting to see the advantages of using graphs neural networks for images, and also recognize the differences between a simple neural network and a graph neural network.
+---
