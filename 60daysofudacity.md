@@ -267,3 +267,7 @@ Day 48: #60daysofudacity
 1. Completed Lesson 8.8. and Lesson 8.9.
 2. Started with Lesson 9.1.
 ---
+18/8/19
+Day 49: #60daysofudacity
+1. Reviewed Lesson 1 through Lesson 4 of the Intro to Deep Learning with Pytorch course.
+---
