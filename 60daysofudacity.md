@@ -271,3 +271,7 @@ Day 48: #60daysofudacity
 Day 49: #60daysofudacity
 1. Reviewed Lesson 1 through Lesson 4 of the Intro to Deep Learning with Pytorch course.
 ---
+19/8/19
+Day 50: #60daysofudacity
+1. Started Lesson 5 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article by Christopher Olah: "Neural Networks, Manifolds, and Topology" (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/). Despite it being somewhat old (2014), this article helped me look at the transformations of neural networks in a topological way.
