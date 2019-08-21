@@ -275,3 +275,9 @@ Day 49: #60daysofudacity
 Day 50: #60daysofudacity
 1. Started Lesson 5 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article by Christopher Olah: "Neural Networks, Manifolds, and Topology" (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/). Despite it being somewhat old (2014), this article helped me look at the transformations of neural networks in a topological way.
+---
+20/8/19
+Day 51: #60daysofudacity
+1. Finished Lesson 5.1 through 5.5 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "About Adversarial Examples" (https://towardsdatascience.com/about-adversarial-examples-2a7a7b4d2670). It explains the importance of adversarial examples (inputs designed to make models predict erroneously) and presents some techniques to overcome their impact on trained neural networks.
+---
