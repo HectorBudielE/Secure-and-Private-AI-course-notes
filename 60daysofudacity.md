@@ -281,3 +281,8 @@ Day 51: #60daysofudacity
 1. Finished Lesson 5.1 through 5.5 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article : "About Adversarial Examples" (https://towardsdatascience.com/about-adversarial-examples-2a7a7b4d2670). It explains the importance of adversarial examples (inputs designed to make models predict erroneously) and presents some techniques to overcome their impact on trained neural networks.
 ---
+21/8/19
+Day 52: #60daysofudacity
+1. Finished Lesson 5.6 through 5.9 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "Hyper-parameters in Action! Part I — Activation Functions" (https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c). It explains the effect of the activation functions on neural networks by using some graphs.
+---
