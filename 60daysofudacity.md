@@ -286,3 +286,8 @@ Day 52: #60daysofudacity
 1. Finished Lesson 5.6 through 5.9 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article : "Hyper-parameters in Action! Part I — Activation Functions" (https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c). It explains the effect of the activation functions on neural networks by using some graphs.
 ---
+22/8/19
+Day 53: #60daysofudacity
+1. Finished Lesson 5.10 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "Hyper-parameters in Action! Part II — Weight Initializers" (https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initializers-35aee1a28404). It explains the importance of a proper weight initialization of a deep neural network.
+---
