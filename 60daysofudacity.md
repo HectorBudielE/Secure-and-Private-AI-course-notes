@@ -291,3 +291,8 @@ Day 53: #60daysofudacity
 1. Finished Lesson 5.10 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article : "Hyper-parameters in Action! Part II — Weight Initializers" (https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initializers-35aee1a28404). It explains the importance of a proper weight initialization of a deep neural network.
 ---
+23/8/19
+Day 54: #60daysofudacity
+1. Finished Lessons 5.11 and 5.12 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "Generalized Huber Regression" (https://towardsdatascience.com/generalized-huber-regression-505afaff24c). It presents a generalized version of the Huber loss function, discussing its optimization with gradient boosted trees.
+---
