@@ -296,3 +296,8 @@ Day 54: #60daysofudacity
 1. Finished Lessons 5.11 and 5.12 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article : "Generalized Huber Regression" (https://towardsdatascience.com/generalized-huber-regression-505afaff24c). It presents a generalized version of the Huber loss function, discussing its optimization with gradient boosted trees.
 ---
+24/8/19
+Day 55: #60daysofudacity
+1. Finished Lessons 5.13 through 5.19 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "Advanced Topics in Neural Networks" (https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae). It introduces some advanced neural network topics such as snaphot ensembles, dropout, bias correction, and cyclical learning rates.
+---
