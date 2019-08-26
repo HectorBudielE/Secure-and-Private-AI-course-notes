@@ -301,3 +301,7 @@ Day 55: #60daysofudacity
 1. Finished Lessons 5.13 through 5.19 of the Intro to Deep Learning with Pytorch course.
 2. I found an interesting article : "Advanced Topics in Neural Networks" (https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae). It introduces some advanced neural network topics such as snaphot ensembles, dropout, bias correction, and cyclical learning rates.
 ---
+25/8/19
+Day 56: #60daysofudacity
+1. Finished Lessons 5.20 through 5.28 of the Intro to Deep Learning with Pytorch course.
+---
