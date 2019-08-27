@@ -305,3 +305,8 @@ Day 55: #60daysofudacity
 Day 56: #60daysofudacity
 1. Finished Lessons 5.20 through 5.28 of the Intro to Deep Learning with Pytorch course.
 ---
+26/8/19
+Day 57: #60daysofudacity
+1. Finished Lessons 5.29 through 5.35 of the Intro to Deep Learning with Pytorch course.
+2. I found an interesting article : "Random Forest In Python" (https://towardsdatascience.com/random-forest-in-python-154d78aad254).
+---
