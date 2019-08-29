@@ -316,3 +316,8 @@ Day 58: #60daysofudacity
 2. I found an interesting article : "MNIST-GAN: Detailed step by step explanation & implementation in code" (https://medium.com/@garimanishad/mnist-gan-detailed-step-by-step-explanation-implementation-in-code-ecc93b22dc60). It serves as an introduction to GANs through an example using PyTorch.
 3. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
 ---
+28/8/19
+Day 59: #60daysofudacity
+1. Finished Lesson 5 (5.39 through 5.44) of the Intro to Deep Learning with Pytorch course.
+2. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
+---
