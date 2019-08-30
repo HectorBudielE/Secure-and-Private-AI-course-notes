@@ -321,3 +321,11 @@ Day 59: #60daysofudacity
 1. Finished Lesson 5 (5.39 through 5.44) of the Intro to Deep Learning with Pytorch course.
 2. I want to keep encouraging fellow #sg_latin members @susyjam, @Ricardo Pretelt, @Fustincho, @Dani Montes, @Gabriela Urquieta, @Antonio and @Casimiro.Rocha to keep posting their progress on the challenge and keep the work going!
 ---
+29/8/19
+Free Day.
+---
+30/8/19
+Day 60: #60daysofudacity
+1. Finished the entire course and updated my github repository accordingly (https://github.com/HectorBudielE/Secure-and-Private-AI-course-notes).
+2. Finished the 60 Days of Udacity challenge!!
+---
