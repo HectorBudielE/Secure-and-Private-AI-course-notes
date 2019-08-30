@@ -323,6 +323,7 @@ Day 59: #60daysofudacity
 ---
 29/8/19
 Free Day.
+
 ---
 30/8/19
 Day 60: #60daysofudacity
